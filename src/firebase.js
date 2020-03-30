@@ -1,14 +1,14 @@
 import firebase from 'firebase';
 
-const firebaseConfig = {
-  apiKey: "AIzaSyAE-ofB6uPbZ4gshmNeFI21824n5qfchvs",
-  authDomain: "bt3103test.firebaseapp.com",
-  databaseURL: "https://bt3103test.firebaseio.com",
-  projectId: "bt3103test",
-  storageBucket: "bt3103test.appspot.com",
-  messagingSenderId: "70833218666",
-  appId: "1:70833218666:web:2d341027ece326ebaf5613",
-  measurementId: "G-MKMGDWMSE1"
+var firebaseConfig = {
+  apiKey: "AIzaSyBFX3ZlzE3tZzWSk8U-S_J2-rhkuhuENfU",
+  authDomain: "groceryaxios-e72ff.firebaseapp.com",
+  databaseURL: "https://groceryaxios-e72ff.firebaseio.com",
+  projectId: "groceryaxios-e72ff",
+  storageBucket: "groceryaxios-e72ff.appspot.com",
+  messagingSenderId: "728809931379",
+  appId: "1:728809931379:web:b49ddd8881686bb6e7a006",
+  measurementId: "G-R4YF2LYSJG"
 };
   
   firebase.initializeApp(firebaseConfig);

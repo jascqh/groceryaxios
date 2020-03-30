@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "bt3103-2020"
+    "staging": "groceryaxios-e72ff",
+    "default": "groceryaxios-e72ff"
   }
 }
